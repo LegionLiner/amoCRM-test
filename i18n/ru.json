@@ -1,0 +1,29 @@
+{
+    "widget":{
+        "name": "Сумма двух слагаемых",
+        "description": "Виджет суммы двух слагаемых.",
+        "short_description": "Виджет суммы двух слагаемых.",
+        "tour_description":"Описание виджета"
+    },
+    "settings":{
+        "login":"Логин",
+        "api_key":"ключ API",
+        "account":"Аккаунт"
+    },
+    "advanced":{
+        "title":"Настройки виджета счетчика"
+    },
+    "salesbot":{
+        "button_title":"Заголовок кнопки",
+        "button_caption":"Описание кнопки",
+        "button_title_default_value":"Заголовок кнопки",
+        "button_caption_default_value":"Описание кнопки",
+        "text":"Текст",
+        "number":"Число",
+        "url":"URL",
+        "handler_name":"Название обработчика"
+    },
+    "dp":{
+        "message": "Сообщение"
+    }
+}
