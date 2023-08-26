@@ -28,7 +28,7 @@ define([], function () {
       <p style="margin-bottom: 10px;">Второе слагаемое</p>
       <input type="text" id="second-num" value="${inputs.b}">
       <p style="margin-bottom: 10px;">Сумма</p>
-      <input type="text" id="sum-num" value="${inputs.sum}" style="margin-bottom: 10px;">
+      <input type="text" id="sum-num" value="${inputs.sum}" style="margin-bottom: 10px;"> <br>
       <button id="saveButton" style="padding: 5px 3px;"
       onmouseover="this.style.backgroundColor='#e7e6fa';"
       onmouseout="this.style.backgroundColor='#fff';">Сохранить</button>`;
