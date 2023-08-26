@@ -1,4 +1,4 @@
-define(['jquery'], function ($) {
+define([], function () {
   var CustomWidget = function () {
     var self = this,
       system = self.system(),
